@@ -7,6 +7,6 @@
 <title>新页面</title>
 </head>
 <body>
-	<h1>新的内容</h1>
+	<h1>新的页面内容</h1>
 </body>
 </html>
