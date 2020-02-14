@@ -7,6 +7,7 @@
 <title>登录页面</title>
 </head>
 <body>
+<h1>更新的内容在这里</h1>
 	<form action="${pageContext.request.contextPath}/login">
 		账户：<input name="userId"/><br/>
 		密码：<input name="userPsw" type="password"/><br/>
