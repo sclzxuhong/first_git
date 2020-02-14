@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>欢迎您：XXX</h1>
+	<p>简单更新下</p>
 </body>
 </html>
